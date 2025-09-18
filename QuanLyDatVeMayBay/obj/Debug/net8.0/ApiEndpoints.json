@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "QuanLyDatVeMayBay.Controllers.MobileController",
+    "Method": "LabI",
+    "RelativePath": "api/Mobile/LabI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyDatVeMayBay.Controllers.MobileController",
+    "Method": "LabII",
+    "RelativePath": "api/Mobile/LabII",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyDatVeMayBay.Controllers.MobileController",
+    "Method": "LabIII",
+    "RelativePath": "api/Mobile/LabIII",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyDatVeMayBay.Controllers.MobileController",
+    "Method": "SuaLabIII",
+    "RelativePath": "api/Mobile/SuaLabIII",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "QuanLyDatVeMayBay.Models.Entities.IiiThucHanh",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyDatVeMayBay.Controllers.MobileController",
+    "Method": "ThemLabIII",
+    "RelativePath": "api/Mobile/ThemLabIII",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "QuanLyDatVeMayBay.Models.Entities.IiiThucHanh",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyDatVeMayBay.Controllers.MobileController",
+    "Method": "XoaLabIII",
+    "RelativePath": "api/Mobile/XoaLabIII",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
